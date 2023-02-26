@@ -1,2 +1,2 @@
 My first readme
-First and only gui update
+First and only Gui update
